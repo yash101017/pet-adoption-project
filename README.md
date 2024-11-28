@@ -5,7 +5,7 @@
   - open the command prompt in the folder that were you saved all your files.
   - then to install the libraries run below command
 ```
-pip install -r requirnment.txt
+pip install -r requirnments.txt
 ```
   - to run the site use below command
 ```
